@@ -1,0 +1,2 @@
+# ETL-Pipeline-for-Toll-Traffic-Data-Extracting-and-Consolidating-Files-Using-Apache-Airflow
+This project demonstrates how to build an ETL (Extract, Transform, Load) pipeline using Apache Airflow's BashOperator to process and consolidate toll traffic data from multiple formats, including CSV, TSV, and fixed-width files. The final output is a unified CSV file that can be used for further traffic data analysis.
